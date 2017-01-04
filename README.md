@@ -1,30 +1,21 @@
-# So Simple Theme
+# MBI buildit - learning - thoughts
 
-WTF? Why does the README.md suddenly become the About.html page?
+Ok.  This is a pre-blog blog.
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes/) -- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+Where I dump my buildit-ideas, coding learnings, and thoughts on stuff.
 
-## Notable features:
+Once it's been processed and cleaned, it can go to my cbira353.github.io portfolio site.
 
-* Compatible with Jekyll 3 and GitHub Pages.
-* Responsive templates. Looks good on mobile, tablet, and desktop devices.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations.
-* Optional large feature images for posts and pages.
-* [Custom 404 page](http://mmistakes.github.io/so-simple-theme/404.html) to get you started.
-* Basic [search capabilities](https://github.com/mathaywarduk/jekyll-search)
-* Support for Disqus Comments
+There may be replications between the two, but I'll try to avoid them.
 
-![screenshot of So Simple Theme](http://mmistakes.github.io/so-simple-theme/images/so-simple-theme-preview.jpg)
+### ARTICLES: My HOW-TO Guides
+Whenever I learn something new, it's better to record the education for posterity. Mine. I'll soon forget what I did and why. So this category:Articles is where I will dump these HowTo's.
 
-See a [live version of So Simple](http://mmistakes.github.io/so-simple-theme/) hosted on GitHub.
 
----
+### BLOG: Rantings
+Self explanatory
 
-## Getting Started
+### BUILDIT: Ideas on What to Build and Why
+My crazy ideas for revenue generating ideas will be here. Lots of things to get going on. SaaS subscription ideas, Data set creation ideas, whatever. If it is something that can be built with software (or software and hardware), I'll likely first put it here to stew.
 
-So Simple takes advantage of Sass and data files to make customizing easier and requires Jekyll 3.x.
-
-To learn how to install and use this theme check out the [Setup Guide](http://mmistakes.github.io/so-simple-theme/theme-setup/) for more information.
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mmistakes/so-simple-theme/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+Fin.
