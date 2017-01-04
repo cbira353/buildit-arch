@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MBIra's Personal Blog</title>
+    <description>In a year all this will sound so obvious.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 04 Jan 2017 15:19:11 -0500</pubDate>
+    <lastBuildDate>Wed, 04 Jan 2017 15:19:11 -0500</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>BuildIt: People's Background Scarfer - Dossier Maker</title>
+        <description>&lt;h2 id=&quot;scarfing-a-speakers-background-page&quot;&gt;Scarfing a Speaker’s Background Page&lt;/h2&gt;
+&lt;p&gt;Many events have a speakers background files to give attendees an idea of the speaker’s bacground.  This information can be more useful than a linkedin page. It can also be useful if you can capture the event (title, date, context, venue, tags) information to add context to the connection.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/BuildIt Dossier 2016-11-11 13-25-18.png&quot; alt=&quot;Speaker's Page&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;how-it-should-work&quot;&gt;How it should work&lt;/h2&gt;
+&lt;p&gt;-Each Speaker background page should be downloaded
+-Each Picture of the speaker should be downloaded
+    - tagged with the name (eg, john-smith-01)
+    - added to some container with other images
+-Ideally, pull a linked-in link of the person&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Note - a way to place a short text note why this person has been scarfed.&lt;/li&gt;
+  &lt;li&gt;Add some tags&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Fri, 11 Nov 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/buildit/BuildIt-Peoples-Dossier-Maker-App/</link>
+        <guid isPermaLink="true">http://localhost:4000/buildit/BuildIt-Peoples-Dossier-Maker-App/</guid>
+        
+        <category>professional network</category>
+        
+        
+        <category>buildit</category>
+        
+      </item>
+    
+      <item>
+        <title>01 Step-by-step Checklist: PRODUCT CREATION </title>
+        <description>&lt;p&gt;ref. Pat Flynn interview # 190 Step-by-step Product Creation with Bryan Harris&lt;/p&gt;
+
+&lt;p&gt;Learned:  Nathan Barry concept of “Learning Out Loud”.  Talk and blog about things as you are doing them.  Over $20,000 in sales&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 11 Nov 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/articles/Step-by-step-Product-Creation/</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/Step-by-step-Product-Creation/</guid>
+        
+        <category>growth hacking</category>
+        
+        <category>mailing list</category>
+        
+        
+        <category>articles</category>
+        
+      </item>
+    
+      <item>
+        <title>Open Source is Great. To a Point</title>
+        <description>&lt;p&gt;TL;DR:  Open Source projects are a great way to start working on something. On any topic (like Jekyll or Bootstrap, for example) there are dozens of repos you can check out. The downer is that even repos that were popular a few years ago may not be up to date. Nor well supported by an active community. Live and learn which rabbit holes to jump into.&lt;/p&gt;
+
+&lt;p&gt;–
+In mucking around to find a digital shoebox for all the code I am learning (and how to start building projects), the first order of business for me was to find a publishing platform.&lt;/p&gt;
+
+&lt;h2 id=&quot;no-to-wordpress&quot;&gt;“No” to Wordpress&lt;/h2&gt;
+&lt;p&gt;My first instinct was to go with wordpress. I’d been using it for years. And Elegant Themes had just come out with Divi 3.0 - probably the only WP theme anyone would ever need. But I figured I wanted to try something different, and learn something new.&lt;/p&gt;
+
+&lt;p&gt;Besides, I wanted to to avoid spending more on hosting.&lt;/p&gt;
+
+&lt;h2 id=&quot;yes-to-github-pages&quot;&gt;“Yes” to Github Pages&lt;/h2&gt;
+&lt;p&gt;Github Pages was the obvious choice.  I was getting used to the Git-Add-Push-Commit pattern and wanted to have a reason to keep Git top of my mind. Aside from being a free hosting service, Github also provides a blog framework in Jekyll.&lt;/p&gt;
+
+&lt;p&gt;(I get off on these tangents, so in researching the best way to use Github Pages for my portfolio site, I learned all about how Github’s founder, Tom Preston-Werner created Jekyll as a quick way to publish. In markdown. Like a Hacker.)&lt;/p&gt;
+
+&lt;h2 id=&quot;yes-to-responsive&quot;&gt;“Yes” to Responsive&lt;/h2&gt;
+&lt;p&gt;I also wanted to make my portfolio site accessible via mobile. So I wanted to make it a responsive site - and focused on a Jekyll / Bootstrap combination.  I’d also learned to use Bootstrap with HTML/CSS/JavaScript/jQuery at the bootcamp, so I was familiar with half of the equation.&lt;/p&gt;
+
+&lt;h2 id=&quot;yes-to-jekyll&quot;&gt;“Yes” to Jekyll&lt;/h2&gt;
+&lt;p&gt;So in my mind I saw a portfolio site&lt;/p&gt;
+</description>
+        <pubDate>Sun, 02 Oct 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/blog/Open-Source-Is-Great,-to-a-point/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/Open-Source-Is-Great,-to-a-point/</guid>
+        
+        <category>TIL</category>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>

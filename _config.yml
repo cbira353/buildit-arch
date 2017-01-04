@@ -1,0 +1,71 @@
+# Site wide configuration
+
+title: MBIra's Personal Blog
+locale: en_US
+description: In a year all this will sound so obvious.
+logo: mi-site-logo.png
+search: true
+
+# NB! Set your site's url, otherwise stuff will break :)
+url: "http://localhost:4000"
+# url: "https://cbira353.github.io"
+# If you're hosting your site at a Project repository on GitHub pages
+# (https://yourusername.github.io/repository-name)
+# and NOT your user repository (https://yourusername.github.io)
+# then add in the baseurl here, like this: "/repository-name"
+#
+# NB! Without this *nothing* will work, because it's used in every path :)
+# baseurl: /personal-jekyll-theme
+
+# Jekyll configuration
+permalink:   /:categories/:title/
+markdown:    kramdown
+theme: minima
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  enable_coderay: false
+
+mathjax: true
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: Marc B. Ira
+  avatar: mbi.JPG
+  email: cbira353@email.com
+  disqus-shortname:
+  twitter: marcbira #username
+  facebook: #username
+  github: mirabello #username
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: marciracfa #username
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
