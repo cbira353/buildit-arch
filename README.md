@@ -18,4 +18,6 @@ Self explanatory
 ### BUILDIT: Ideas on What to Build and Why
 My crazy ideas for revenue generating ideas will be here. Lots of things to get going on. SaaS subscription ideas, Data set creation ideas, whatever. If it is something that can be built with software (or software and hardware), I'll likely first put it here to stew.
 
+`code here`
+
 Fin.
